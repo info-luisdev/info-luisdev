@@ -4,8 +4,6 @@
 
 I build the infrastructure that makes data usable — ETL/ELT pipelines, large-scale web scraping, and REST APIs, written in clean, production-grade Python. My job is turning scattered, messy data into reliable systems that analysts, applications, and models can trust.
 
-I've done this in production for a national competition authority, a health insurer, and a US-based remote team — not in tutorials.
-
 ---
 
 ### What I do
