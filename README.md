@@ -1,51 +1,65 @@
 # Hi, I'm Luis 👋
 
-### Data Engineer & Python Engineer
+### Data Engineer | Python Developer
 
-I build the infrastructure that makes data usable — ETL/ELT pipelines, large-scale web scraping, and REST APIs, written in clean, production-grade Python. My job is turning scattered, messy data into reliable systems that analysts, applications, and models can trust.
-
----
-
-### What I do
-
-I own data pipelines end to end: pulling from source systems and the web, transforming and modeling in SQL, and serving the result through APIs where it actually gets used. I think about the parts that don't show up in a demo — data quality, reproducibility, and decisions I can defend six months later.
-
-Python is my core tool across the whole path, from data processing to backend services. I bring working knowledge of **Machine Learning and AI** — supervised learning, LangChain, AI agents — into that engineering, because solid data infrastructure is exactly what makes ML work outside a notebook.
+I build reliable data pipelines, processing workflows, and APIs using Python and SQL, turning raw information into systems that analytics, applications, and AI can use.
 
 ---
 
-### 🛠️ Tech I work with
+## What I do
 
-**Languages** — Python · SQL · PL/SQL · TypeScript
+I work across the data lifecycle, from extraction and transformation to storage, integration, and consumption.
 
-**Data Engineering** — ETL / ELT · Web Scraping (BeautifulSoup · Selenium · Scrapy) · Spark · REST APIs
+My focus is building reliable **ETL/ELT pipelines, data processing workflows, web scraping systems, and APIs** with Python and SQL, with an emphasis on data quality, maintainability, and reproducibility.
 
-**Data & ML** — Pandas · NumPy · Scikit-learn · Statistical Analysis · EDA · Supervised Learning · LangChain · AI Agents
-
-**Databases** — SQL Server · PostgreSQL · MongoDB
-
-**Backend & Cloud** — FastAPI · Flask · Django · Node.js · AWS · Docker · Linux
-
-**Visualization** — Power BI · Tableau · Plotly Dash · Recharts
+I'm also expanding my knowledge in **Machine Learning and AI Engineering**, particularly the data infrastructure required to move models beyond notebooks and into real-world systems.
 
 ---
 
-### 📂 Featured Projects
+## Technologies
 
-🚧 **Coming soon** — I'm packaging my strongest data engineering work (ETL & scraping pipelines, geospatial data processing, API-served analytics) with proper documentation and reproducible setups. Check back shortly.
+**Core**  
+Python · SQL · Pandas · ETL/ELT · Data Pipelines
+
+**Data Engineering**  
+Apache Spark · Web Scraping · BeautifulSoup · Selenium · Scrapy · REST APIs
+
+**Databases**  
+SQL Server · PostgreSQL · MongoDB
+
+**Backend & Infrastructure**  
+FastAPI · Flask · Docker · AWS · Linux
+
+**Analytics & Machine Learning**  
+Power BI · Tableau · NumPy · Scikit-learn · LangChain
+
+**Additional**  
+PL/SQL · Django · TypeScript · Node.js · Plotly Dash · Recharts
 
 ---
 
-### 📚 Currently
+## Selected Projects
 
-- Deepening pipeline orchestration & data warehousing at scale
-- **Certifications:** Google Data Analytics · IBM Data Science · PCEP · *(in progress: PCAP, Tableau Desktop Specialist)*
+Public engineering case studies will be added here as they are documented and prepared for reproducible deployment.
 
 ---
 
-### 📫 Reach me
+## Currently
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/info-luisdev/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-mario-santos)
+- Deepening my knowledge of **pipeline orchestration, data warehousing, and scalable data architectures**
+- Expanding into **Machine Learning and AI Engineering**
 
+### Certifications
 
+- Google Data Analytics
+- IBM Data Science
+- PCEP – Certified Entry-Level Python Programmer
+- PCAP – In progress
+- Tableau Desktop Specialist – In progress
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mario-santos/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/info-luisdev/)
